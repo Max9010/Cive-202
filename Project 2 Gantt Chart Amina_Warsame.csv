@@ -1,0 +1,23 @@
+CIVE 202 Project #2,,,,,,Project start:,"Fri, 02/13/2026",,
+Automation of NDOT Concrete Mix Design Model — Gantt Chart,,,,,,Group:,Project #2 - Group G,,
+,,,,,,Members:,"Nomaan Ahmed, Max Perry, Aminasahra Warsame",,
+,,,,,,,,,
+,,,,,,Gantt helper (do not delete),,,
+TASK,ASSIGNED TO,PROGRESS,START,END,,Task,StartOffset,Duration,Progress
+PLANNING,,,,,,Define requirements & deliverables (SOW/ACD/Report),0,2,20%
+Define requirements & deliverables (SOW/ACD/Report),All,20%,2/13/2026,2/15/2026,,"Review NDOT Excel model (inputs/outputs, constraints)",1,4,15%
+"Review NDOT Excel model (inputs/outputs, constraints)",Nomaan,15%,2/14/2026,2/18/2026,,Set up repo + file structure + testing plan,2,3,10%
+Set up repo + file structure + testing plan,Amina,10%,2/15/2026,2/18/2026,,Data cleaning & preprocessing (NDOT tables/constants),4,6,0%
+DEVELOPMENT,,,,,,Write core Python functions (mix calc modules),6,13,0%
+Data cleaning & preprocessing (NDOT tables/constants),Max,0%,2/17/2026,2/23/2026,,Integrate workflow (inputs ? calc ? outputs),14,10,0%
+Write core Python functions (mix calc modules),Amina,0%,2/19/2026,3/4/2026,,Validate results vs NDOT spreadsheet examples,18,8,0%
+Integrate workflow (inputs ? calc ? outputs),Nomaan,0%,2/27/2026,3/9/2026,,Write Scope of Work (SOW),10,10,0%
+VALIDATION & DOCS,,,,,,Annotated Code Document (ACD),18,10,0%
+Validate results vs NDOT spreadsheet examples,Max,0%,3/3/2026,3/11/2026,,Technical report / user guide + README,22,11,0%
+Write Scope of Work (SOW),Amina,0%,2/23/2026,3/5/2026,,Final integration + packaging (zip/ipynb/links),31,5,0%
+Annotated Code Document (ACD),Nomaan,0%,3/3/2026,3/13/2026,,,,,
+Technical report / user guide + README,All,0%,3/7/2026,3/18/2026,,,,,
+SUBMISSION,,,,,,,,,
+Final integration + packaging (zip/ipynb/links),All,0%,3/16/2026,3/21/2026,,,,,
+,,,,,,,,,
+Note: Update progress and dates as your team completes each task. Dependencies indicate sequencing.,,,,,,,,,
